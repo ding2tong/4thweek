@@ -1,0 +1,37 @@
+
+.QA{
+    margin-top: 100px;
+    margin-bottom: 80px;
+    h2{
+        border-left: 8px solid $color-main;
+        padding-left: 16px;
+        font-family: $ff;
+        font-size: 48px;
+        line-height: 72px;
+        font-weight: $fw-bold;
+    }
+    .ask{
+        font-family: $ff;
+        font-size: 24px;
+        line-height: 36px;
+        font-weight: $fw-bold;
+        margin-top: 32px;
+    }
+    .QAlist{
+        li{
+            margin-top: 32px;
+        }
+        h3{
+            font-family: $ff;
+            font-size: 20px;
+            line-height: 30px;
+            font-weight: $fw-bold;
+        }
+        p{
+            font-family: $ff;
+            font-size: 16px;
+            line-height: 24px;
+            font-weight: normal;
+        }
+    }
+}
