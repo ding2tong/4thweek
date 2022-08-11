@@ -337,7 +337,9 @@ img {
       color: #000000; }
     @media (max-width: 767px) {
       .location p {
-        width: 100%; } }
+        width: 100%; }
+        .location p .material-symbols-outlined {
+          margin-left: 54px; } }
   .location .content {
     margin-top: 40px;
     display: -webkit-box;
